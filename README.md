@@ -1,7 +1,7 @@
 
 ## Template Sites
 
-This is a basic description of all the projects that I did involving HTML, CSS, JavaScript.
+Websites built using templates. A quick and cheap[Zero input cost] way of making static websites. 
 
 - [IrisSecurityServices](https://github.com/YuZaGa/iris)
 
